@@ -1,0 +1,4 @@
+1 string, float, boolens, integer
+2 A place where you store sources 
+3 input 
+4 camel case 
