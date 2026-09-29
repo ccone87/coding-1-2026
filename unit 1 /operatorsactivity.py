@@ -30,3 +30,7 @@ recommendation = false
 
 print(gpa > 85 and recommendation == true)
 
+gpa = 89
+credits = 42
+ 
+ print(gpa > 85 and credits > 42 )
