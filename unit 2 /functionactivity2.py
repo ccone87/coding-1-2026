@@ -21,9 +21,9 @@ def compareNumbers():
     # problem #2
 
     def honorrollchecker():
-        print("PROGRAM IS RUNNING: please type in your grade:"
+        print("PROGRAM IS RUNNING: please type in your grade:")
         grade = int(input())
-        print("please type in your absenses:"
+        print("please type in your absenses:")
         num2 = int(input())
         
 
