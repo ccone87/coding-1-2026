@@ -27,4 +27,86 @@ def ccpApp():
     print("congrats please complete the templa u app with the following code")
     print("238293")
 
-       
+# using the calculator functions from the calculator.py file,
+# create a main calculator function that uses if/else logic to 
+# allow the user to select different arithmetic operators and
+# then perform those operators by running their respective functions.
+
+# Example: an input where if the user enter1, it will run the addition function.
+# 1= addiction()
+# 2= subtraction()
+# 3= multiplication()
+# 4= division()
+
+
+def calculate_add():
+    print("program has started: please type in 2 numbers to add ")
+    num1 = int(input())
+    num2 = int(input())
+    print( num1 + num2)
+    print("program has ended ")
+
+    def calculate_muliply():
+    print("program has started: please type in 2 numbers to add ")
+    num1 = int(input())
+    num2 = int(input())
+    print( num1 + num2)
+    print("program has ended ")
+
+    def calculate_divide():
+    print("program has started: please type in 2 numbers to add ")
+    num1 = int(input())
+    num2 = int(input())
+    print( num1 + num2)
+    print("program has ended ")
+
+    def calculate_subtract():
+    print("program has started: please type in 2 numbers to add ")
+    num1 = int(input())
+    num2 = int(input())
+    print( num1 + num2)
+    print("program has ended ")
+
+choice = input("please a number: ")
+
+if choice == '1':
+    calculate_add()
+
+if choice == '2':
+    calculate_multiply()
+
+if choice == '3':
+    calculate_divide()
+
+if choice == '4':
+    calculate_subtract()
+
+
+
+
+def age():
+    age= int(input(":"))
+
+    if age == 8-20
+    price = 
+
+elif
+    if age == 7 or younger
+    price $8.00
+
+elif 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
