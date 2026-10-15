@@ -80,21 +80,21 @@ if choice == '3':
 
 if choice == '4':
     calculate_subtract()
+    
 
+    def movieTicket():
+        print("welcome to the movie theater. please type im your age: ") 
+        age = input()
+        if age <= 7:
+            print("your ticket is $8.00.")
+        elif age >= 8 and age <= 20    
+            print('your ticket is $20.00')
+        elif age >= 61:
+            print("your ticket is free")    
+        else:
+            print("sorry there was an error in the program...")    
 
-
-
-def age():
-    age= int(input(":"))
-
-    if age == 8-20
-    price = 
-
-elif
-    if age == 7 or younger
-    price $8.00
-
-elif 
+movieTicket()          
 
 
 
