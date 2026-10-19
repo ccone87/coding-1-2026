@@ -1,0 +1,11 @@
+1. I want to make an adventures/ survival game that you resources to survive and to fight off monsters. The game will also 
+have boss fights were you can earn new gear and weapons. 
+
+2. The player will have to find meterials and resources to build more advance weapons and gear for there survival against monsters.
+
+3. when player has completed an objective they will earn gems,weapons,gear or food that they can use to trade or for their survival.
+
+4. When the player does not complete the objective they will either die or will not gain the new 
+gems,weapons,gear, or other resources that they could have won.
+
+5. Mincraft, Rust, God of war.
