@@ -1,0 +1,14 @@
+def vendingmachine():
+    print("vending machine")
+    print("please enter a code to receive food item:")
+    item = input()
+    while item !="q":
+        if item == "b3":
+            print("nacho chips")
+            print("please enter a code to receive food item: ")
+            item = input()
+            print("vending machine off")
+
+
+
+vendingmachine()     
