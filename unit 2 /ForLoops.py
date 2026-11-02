@@ -39,3 +39,18 @@ fighter_B= ["Dexter Lab", 120, 40]
 for fightername in fighters:
     print("name of fighters: " +str(fightername[0])) 
     print("health of fighters: " +str (fightername[1]))
+
+    inventory, appended ("spell book")
+    print(inventory)
+
+# list are index based- meaning we can search and find values inside of 
+# list because it structured
+
+# to pull a specific value from a list, use the list index position
+# list always start from 0.
+print(inventory[0])
+
+inventory.pop(1)
+inventory.remove("healing potion")
+
+print(inventory)
