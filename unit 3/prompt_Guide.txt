@@ -1,0 +1,14 @@
+1. My game is an open world crafting and survival game where 
+are able to collect resources to craft and built weapon, food, shelter, and even potions. 
+The challenges you will face in the game are fighting off animals and beast that each have different hunting strategy.
+
+2. The game will have welcome home screen where you start a new world or continue making progress in your previous worlds.
+
+3. Swords, knifes, guns, food, and potions are objects that will be in the game. 
+
+4. The player will use W,A,S,D to move around, the mouse to look around, left click select items,and right click to open doors.
+
+5. The enemy with attack you once get within close. Different Enemies or creatures will attack shooting from a far, 
+using a weapon to kill, or trying to eat you.
+
+6. If you die in the game you will loose all of your inventery and will respawn in a ramdom spot.
